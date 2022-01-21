@@ -1,3 +1,3 @@
 # Silver ground 2201 first making
 
-CSS gets me nerves
+HTML & CSS are not so much fun!
