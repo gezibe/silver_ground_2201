@@ -8,3 +8,14 @@
   left: 70px;
   bottom: 25px;
 }
+
+.point__more {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 15px;
+  display: flex;
+  position: absolute;
+  left: 120px;
+  bottom: 25px;
+}
